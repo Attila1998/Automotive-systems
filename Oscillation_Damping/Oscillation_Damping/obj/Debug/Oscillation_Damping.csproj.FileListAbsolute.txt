@@ -1,0 +1,52 @@
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.exe.config
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.exe
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.pdb
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.csprojResolveAssemblyReference.cache
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.Main_Form.resources
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.Properties.Resources.resources
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.csproj.GenerateResource.Cache
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.exe
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.pdb
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\Oscillation_Damping\bin\Debug\MccDaq.dll
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows_10\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.exe.config
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows_10\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.exe
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows_10\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.pdb
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows10\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.exe.config
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows10\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.exe
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows10\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.pdb
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows10\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.exe
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows10\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.pdb
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows10\Oscillation_Damping\Oscillation_Damping\bin\Debug\MccDaq.dll
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows10\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.csprojResolveAssemblyReference.cache
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows10\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.Main_Form.resources
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows10\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.Properties.Resources.resources
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows10\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.csproj.GenerateResource.Cache
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows8\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.exe.config
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows8\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.exe
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows8\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.pdb
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows8\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.exe
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows8\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.pdb
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows8\Oscillation_Damping\Oscillation_Damping\bin\Debug\MccDaq.dll
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows8\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.csprojResolveAssemblyReference.cache
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows8\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.Main_Form.resources
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows8\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.Properties.Resources.resources
+C:\Users\martonl\Desktop\Oscillation_Damping_Windows8\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.csproj.GenerateResource.Cache
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.exe.config
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.exe
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.pdb
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.exe
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.pdb
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.csprojResolveAssemblyReference.cache
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.Main_Form.resources
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.Properties.Resources.resources
+C:\Users\martonl\Desktop\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.csproj.GenerateResource.Cache
+C:\Diak\Hamar Mark\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.exe.config
+C:\Diak\Hamar Mark\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.exe
+C:\Diak\Hamar Mark\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.pdb
+C:\Diak\Hamar Mark\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.exe
+C:\Diak\Hamar Mark\Oscillation_Damping\Oscillation_Damping\bin\Debug\Oscillation_Damping.pdb
+C:\Diak\Hamar Mark\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.csprojResolveAssemblyReference.cache
+C:\Diak\Hamar Mark\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.Main_Form.resources
+C:\Diak\Hamar Mark\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.Properties.Resources.resources
+C:\Diak\Hamar Mark\Oscillation_Damping\Oscillation_Damping\obj\Debug\Oscillation_Damping.csproj.GenerateResource.Cache
+C:\Diak\Hamar Mark\Oscillation_Damping\Oscillation_Damping\bin\Debug\MccDaq.dll
